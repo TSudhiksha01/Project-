@@ -1,1 +1,0 @@
-pull sql commands are DDL,DML,DRL,TCL,DCL.
