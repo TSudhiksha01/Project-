@@ -1,0 +1,11 @@
+
+ --- Ticket Details ---
+Passenger: gunnu
+Airline: airindia
+From: vikarabad
+To: bangalore
+Date: 02-03-2024
+Time: 03:15 PM
+Seat: 12f
+Fare: ₹15000
+Transaction ID: TX697773
